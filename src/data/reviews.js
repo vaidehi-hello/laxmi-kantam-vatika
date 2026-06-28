@@ -1,0 +1,51 @@
+// Fallback reviews — replace with live Google Places API data later
+export const fallbackReviews = [
+  {
+    id: 1,
+    author: 'Anant Sharma',
+    rating: 5,
+    date: 'few months ago',
+    text: 'Very nice banquet hall.i have celebrated my birthday in this hall.food is very tasty.and staff behaviour is also polite.',
+    avatar: 'AS',
+  },
+  {
+    id: 2,
+    author: 'Diya Pandey',
+    rating: 5,
+    date: 'few months ago',
+    text: "Experienced the well organised event as staff members were supportive throughout. A good experience.",
+    avatar: 'DP',
+  },
+  {
+    id: 3,
+    author: 'Govind Kumar',
+    rating: 5,
+    date: 'few months ago',
+    text: 'Loved the ambience and vibe of the place. Will surely visit again 🫶',
+    avatar: 'GK',
+  },
+  {
+    id: 4,
+    author: 'Sunita Devi',
+    rating: 4,
+    date: 'few months ago',
+    text: 'Held our anniversary party here. The ambiance was wonderful, food was delicious, and the staff was very attentive throughout the evening.',
+    avatar: 'SD',
+  },
+  {
+    id: 5,
+    author: 'Shalini Somya',
+    rating: 5,
+    date: 'few  months ago',
+    text: 'Awesome place! Had a great experience in everything from food to management. Do visit with your families 💗',
+    avatar: 'SS',
+  },
+  {
+    id: 6,
+    author: 'Bhagwat Sharma',
+    rating: 5,
+    date: 'few months ago',
+    text: 'Very good service Peaceful place positive vibes.Highly recommend',
+    avatar: 'BH',
+  },
+]
